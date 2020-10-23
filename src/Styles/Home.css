@@ -1,0 +1,11 @@
+.maindiv {
+    width: 100%;
+}
+
+.background-img {
+    background-image: linear-gradient(to right, #000000 0%, rgba(0, 0, 0, 0) 100%), url(../Assets/16614.png);
+    padding-top: 163px;
+    padding-bottom: 56px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

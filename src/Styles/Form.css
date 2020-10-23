@@ -1,0 +1,78 @@
+.formdiv {
+    border-radius: 19px;
+    border: 1px solid #707070;
+    background-color: #f3f3f3;
+    opacity: 0.95;
+    max-width: 448px;
+}
+
+.form-content {
+    margin: 31px 44px;
+}
+
+.getStarted {
+    color: #43425d;
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 0;
+    display: block;
+}
+
+.userform{
+    align-items: center;
+}
+
+.btn.submitfrom {
+    margin-top: 25px;
+    font-family: Poppins;
+    font-style: normal;
+    border-radius: 40px ;
+    background-color: #5fa01b ;
+    border: none;
+    color: #ffffff;
+    width: 190px;
+    height: 48px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.fullname {
+    margin-top: 26px;
+}
+
+.email {
+    width: 100%;
+    margin-top: 38px;
+}
+
+.phone {
+    width: 100%;
+    margin-top: 38px;
+}
+
+.address {
+    width: 100%;
+    margin-top: 38px;
+}
+
+.storename {
+    width: 40%;
+    margin-top: 38px;
+}
+
+.storetype {
+    width: 40%;
+    margin-top: 38px;
+}
+
+.checkterms {
+    margin-top: 40px;
+}
+
+.checkterms,label {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+}
+

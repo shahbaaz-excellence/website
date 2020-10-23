@@ -1,0 +1,40 @@
+.Row3 {
+    margin-top: 100px;
+}
+
+.pic2 {
+    width: 75%;
+    height: 100%;
+    display: block;
+    margin: auto;
+}
+
+.large-text {
+    margin-top: 53px;
+    margin-left: 75px;
+    color: #333c2a;
+    font-family: Poppins;
+    font-size: 37px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 76px;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
+
+.small-text {
+    margin-left: 75px;
+    color: #333c2a;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 26px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
