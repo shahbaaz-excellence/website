@@ -1,0 +1,33 @@
+.search-div {
+    margin-top: 63px;
+    background-image: url(../Assets/Search.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.search-row {
+    display: flex;
+    justify-content: center;
+    padding-top: 152px;
+    padding-bottom: 40px;
+}
+
+.btn.search-btn {
+    margin-left: 20px;
+    font-family: Poppins;
+    font-style: normal;
+    border-radius: 40px;
+    background-color: #5fa01b;
+    border: none;
+    color: #ffffff;
+    width: 119px;
+    height: 48px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.form-control.searchbar {
+    display: flex;
+    max-width: 315px;
+}

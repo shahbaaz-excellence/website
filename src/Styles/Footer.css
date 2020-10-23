@@ -1,0 +1,81 @@
+.Footer {
+    
+    margin-bottom: 75px;
+}
+
+.footer-row{
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.lfooter-text {
+    margin-top: 64px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 28px;
+    color: #000000;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 29px;
+    text-align: left;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
+
+.sfooter-text {
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #000000;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 29px;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
+
+.icon-col {
+    margin-left: 15px;
+    margin-top: 64px;
+}
+
+.store-row {
+    justify-content: flex-end;
+    padding-right: 10px;
+}
+
+.playstore {
+    margin-bottom: 24px;
+}
+
+.iStore {
+    margin-bottom: 40px;
+}
+
+.social-icon {
+    display: block;
+    margin-left: auto;
+}
+
+.icon-row2 {
+    margin-top: 20px;
+}
+
+@media (max-width: 1000px){
+    .store-row {
+        justify-content: left;
+        padding-right: 10px;
+    }
+    .scicon-col.col{
+        flex-grow: 0;
+    }
+}
